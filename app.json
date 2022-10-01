@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "expo-router",
+    "scheme": "exporouter",
     "slug": "expo-router",
     "version": "1.0.0",
     "orientation": "portrait",
